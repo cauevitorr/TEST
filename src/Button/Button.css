@@ -1,0 +1,17 @@
+button{
+ color: white;
+ margin-top: none;
+ background-color: hsl(154, 59%, 51%);
+ padding-left: 20px;
+ border-radius: 5px;
+ height: 40px;
+ margin-top: 10px;
+ margin-left: 60px;
+ width: 380px;
+}
+
+p{
+ margin-left: 0px;
+ font-size: 11px;
+ color: hsl(246, 25%, 77%);
+}
